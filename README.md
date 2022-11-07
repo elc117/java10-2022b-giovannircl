@@ -23,13 +23,13 @@ Portanto, ao invés de subtrair 250 de 1100 que seria o correto, ela acaba por s
 
 ![image](https://user-images.githubusercontent.com/60160232/200311384-47c8e3f1-6b62-460a-8143-1017021a8453.png)
 
-### Pergunta::
+### Pergunta:
 
 - Acredito que o material esteja bem completo para sanar quaisquer dúvidas. Teve um assunto bem específico que eu realmente tive dificuldade
 que foi em herdar de uma classe "pai" utilizando threads. Não entendi se devo fazer com que a classe principal dê um _extends Thread_ ou se as
 filhas devem fazer isso e a classe "pai" apenas conter as características para serem herdadas.
 
-- Na minha visão é necessário ter uma classe pai que extende Thread, ou implementa Runnable e as filhas herdam dela, podendo ser threads que apenas têm suas peculiaridades
+- Na minha visão é necessário ter uma classe pai que extende Thread, ou implementa Runnable e as filhas herdam dela, podendo ser threads que apenas têm suas peculiaridades.
 
 
 
