@@ -1,7 +1,7 @@
 # java10-2022b-giovannircl
 java10-2022b-giovannircl created by GitHub Classroom
 
-**## Explicação da execução do código _sharedaccount_: **
+## Explicação da execução do código _sharedaccount_:
 
 ### Análise (sem o syncronized):
 
